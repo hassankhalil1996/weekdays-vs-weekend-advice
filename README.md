@@ -10,7 +10,7 @@
    ```
 2. Install dependencies:
    ```bash
-   npm install
+   npm install express ejs
    ```
 3. Run the app:
    ```bash
