@@ -1,6 +1,6 @@
-"# weekdays-vs-weekend-advice" 
+**"# weekdays-vs-weekend-advice" 
 
-"#A simple Express.js application that displays whether it's a weekday or weekend and gives advice." 
+"#A simple Express.js application that displays whether it's a weekday or weekend and gives advice." **
 
 ## Installation
 
