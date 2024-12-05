@@ -17,7 +17,7 @@
    node index.js
    ```
 
-**Visit `http://localhost:3000` to view the app and <u>get the adice!</u>.**
+**Visit `http://localhost:3000` to view the app and get the adice based on the day of the week!.**
 
 ## Technologies
 - Express.js
