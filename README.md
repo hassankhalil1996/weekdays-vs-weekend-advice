@@ -17,7 +17,7 @@
    node index.js
    ```
 
-Visit `http://localhost:3000` to view the app.
+**Visit `http://localhost:3000` to view the app and <u>get the adice!</u>.**
 
 ## Technologies
 - Express.js
